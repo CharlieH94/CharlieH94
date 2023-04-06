@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlieH94
-- 👀 I’m a qualified dentist, but I'm interested in learning how to code.
-- 🌱 I’m currently learning the basics, chipping away at exercises on CodeCademy.
+- 👀 I’m a qualified dentist, but I'm interested in coding. I recently graduated from Northcoders Software Development Bootcamp.
+- 🌱 I’m currently working through Codecademy's Full Stack Pathway, and Harvard's CS50x. 
 
 <!---
 CharlieH94/CharlieH94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
