@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CharlieH94
-- 👀 I’m a qualified dentist, but I'm interested in coding. I recently graduated from Northcoders Software Development Bootcamp.
+- 👀 I’m a qualified dentist, but I'm interested in coding.
+- 🎓 I recently graduated from Northcoders Software Development Bootcamp.
 - 🌱 I’m currently working through Codecademy's Full Stack Pathway, and Harvard's CS50x. 
 
 <!---
